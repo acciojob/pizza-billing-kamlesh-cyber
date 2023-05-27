@@ -34,7 +34,7 @@ public class Pizza {
         isBillGenerated = false;
 
         totalPrice = basePrice;
-        bill = "Base price of the pizza: "+basePrice+ "\n";
+        bill = "Base Price Of The Pizza: "+basePrice+ "\n";
     }
     public int getPrice(){
         return totalPrice;
